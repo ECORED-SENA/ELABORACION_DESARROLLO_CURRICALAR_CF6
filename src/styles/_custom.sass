@@ -1,0 +1,42 @@
+// TARJETA TEXTO UP //
+.tarjetas-text
+  position: relative
+  overflow: hidden
+  &__contenido
+    width: 100%
+    transition: bottom 0.3s ease-in-out
+    position: absolute
+    background-color: #FFF0CC!important
+    bottom: -10%
+    p
+      transition: opacity 0.3s ease-in-out
+      opacity: 0
+      display: none
+  &:hover
+    .tarjetas-text__contenido
+      height: 75%
+      bottom: 0
+      p
+        opacity: 1
+        display: block
+// TARJETA TEXTO UP //
+
+  
+// TARJETA HOVER UP// 
+.tarjeta-hover
+  position: relative
+  overflow: hidden
+  &__img
+    width: 100%
+    height: 100%
+    position: absolute
+    bottom: -100%
+    left: 0
+    background-size: cover
+    background-position: center
+    background-repeat: no-repeat
+    transition: bottom 0.3s ease-in-out
+    
+  &:hover
+    .tarjeta-hover__img
+      bottom: 0

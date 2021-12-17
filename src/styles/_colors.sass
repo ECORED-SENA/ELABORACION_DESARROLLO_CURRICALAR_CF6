@@ -1,0 +1,96 @@
+//BACKGROUNDS COLORS//
+.bg
+  &--1
+    background-color: $color-primario !important
+    &-claro
+      background-color: lighten($color-primario, 32% ) !important
+    &-claro2
+      background-color: lighten($color-primario, 35% ) !important
+  &--2
+    background-color: $color-secundario !important
+    &-claro
+      background-color: lighten($color-secundario, 40% ) !important
+    &-claro2
+      background-color: lighten($color-secundario, 15% ) !important
+    &-claro3
+      background-color: #fdd835
+    &-claro4
+      background-color: #ffe299
+    &-claro5
+      background-color: #FFEDBF
+  &--3
+    background-color: $color-acento-contenido !important
+    &-claro
+      background-color: lighten($color-acento-contenido, 35% ) !important
+    &-claro2
+      background-color: lighten($color-acento-contenido, 25% ) !important
+    &-claro3
+      background-color: #FFBE7B
+  &--4
+    background-color: $color-acento-botones !important
+    &-claro
+      background-color: lighten($color-acento-botones, 30% ) !important
+    &-claro2
+      background-color: lighten($color-acento-botones, 40% ) 
+    &-claro3
+      background-color: #dec6f6 !important
+//BACKGROUNDS COLORS//
+
+
+//TEXT COLORS//
+.text-system
+  p, h1, h2, h3, h4, h5, h6, span, i
+    color: $color-sistema-texto !important
+.c
+  &--1
+    p, h1, h2, h3, h4, h5, h6, span, i 
+      color: $color-primario !important
+  &--2
+    p, h1, h2, h3, h4, h5, h6, span, i 
+      color: $color-secundario !important
+  &--3
+    p, h1, h2, h3, h4, h5, h6, span, i 
+      color: $color-acento-contenido !important
+  &--4
+    p, h1, h2, h3, h4, h5, h6, span, i 
+      color: $color-acento-botones !important
+//TEXT COLORS//
+
+
+//ANIMATIONS//
+
+.hover
+  transition: transform .3s ease-in-out
+  &:hover
+    transform: scale(1.02)
+.hover-flip
+  figure, img
+    transition: transform 1s ease-in-out
+  &:hover
+    figure, img
+      transform: rotateY(360deg)
+      transform-style: preserve-3d
+      perspective: 1000px
+.hover-claro
+  filter: saturate(40%) contrast(1) brightness(1.15)
+  transition: all .3s ease-in-out
+  &:hover
+    filter: saturate(100%) 
+
+.hover-bg
+  &--1
+    transition: all .3s ease-in-out
+    &:hover
+      background-color: $color-primario !important
+  &--2
+    transition: all .3s ease-in-out
+    &:hover
+      background-color: $color-secundario !important
+  &--3
+    transition: all .3s ease-in-out
+    &:hover
+      background-color: $color-acento-contenido !important
+  &--4
+    transition: all .3s ease-in-out
+    &:hover
+      background-color: $color-acento-botones !important
