@@ -49,7 +49,8 @@
     p.mb-5 En ese sentido, la evaluación debe contar con dos principios:
     .row.mb-5.justify-content-center
       .col-lg-5.mb-3
-        .tarjeta-titulo.tarjeta.color-primario--borde.p-5(style= 'height: 444px')
+        .tarjeta-titulo.tarjeta.color-primario--borde.p-5(style= 'height: 444px')(@mouseover="mostrarIndicador= false")
+          .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/6.jpg', alt='Texto que describa la imagen')
           .tarjeta-titulo__titulo.bg--1.p-4
             h2.text-center.text-white Integridad
@@ -61,7 +62,7 @@
         .tarjeta-titulo.tarjeta.color-acento-botones--borde.p-5(style= 'height: 444px')
           img(src='@/assets/curso/7.jpg', alt='Texto que describa la imagen')
           .tarjeta-titulo__titulo.bg--4.p-4
-            h2.text-center.text-white Integridad
+            h2.text-center.text-white Contexto
           .tarjeta-titulo__contenido.d-flex.justify-content-center.align-items-center.p-5
             .textos.text-center
               h4 Contexto
@@ -232,7 +233,8 @@
             img(src="@/assets/curso/1.svg" alt="Adornos flotantes" style=" width: 70px").m-auto
     p.mb-5 Cabe resaltar que la evaluación no apunta a determinar el nivel de dominio del conocimiento declarativo y teórico del aprendiz, sino su puesta en escena en contextos y situaciones concretas de la realidad en los ámbitos personal, social y profesional. Por ello, es necesario señalar las principales características de la evaluación SENA, (2013, p. 59-64):
     .contenedor.d-flex.justify-content-center.align-items-center.flex-wrap.mb-5
-      .tarjeta-titulo.tarjeta.color-primario--borde.p-5(style= 'height: 464px; width: 229px;').me-2
+      .tarjeta-titulo.tarjeta.color-primario--borde.p-5(style= 'height: 464px; width: 229px;').me-2(@mouseover="mostrarIndicador= false")
+          .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/18.jpg', alt='Texto que describa la imagen')
           .tarjeta-titulo__titulo.bg--1.p-4
             h2.text-center.text-white Cualitativa
