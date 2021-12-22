@@ -519,7 +519,7 @@
         .tarjeta.bg--1-claro.p-5.position-relative.d-flex.align-items-center.hover
           .cont-img(style="position: absolute; top:0 ; left: -2%; height: 100%;").d-flex.justify-content-center.align-items-center
             img(src='@/assets/curso/53.svg' style="width: 106px;").m-auto
-          p.ms-5.ps-3.mb-0.h5 La entrvista
+          p.ms-5.ps-3.mb-0.h5 La entrevista
     .row.justify-content-center
       .col-lg-4.mb-3
         .tarjeta.bg--1-claro.p-5.position-relative.h-100.d-flex.align-items-center.hover
