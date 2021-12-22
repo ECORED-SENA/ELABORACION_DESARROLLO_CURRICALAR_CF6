@@ -232,6 +232,9 @@
           .img(style=" position: absolute; top: -20%;  left: 0; width: 100%;  ")
             img(src="@/assets/curso/1.svg" alt="Adornos flotantes" style=" width: 70px").m-auto
     p.mb-5 Cabe resaltar que la evaluación no apunta a determinar el nivel de dominio del conocimiento declarativo y teórico del aprendiz, sino su puesta en escena en contextos y situaciones concretas de la realidad en los ámbitos personal, social y profesional. Por ello, es necesario señalar las principales características de la evaluación SENA, (2013, p. 59-64):
+    .titulo-sexto.color-acento-botones
+      h5 Figura 2
+      span Características de la evaluación SENA
     .contenedor.d-flex.justify-content-center.align-items-center.flex-wrap.mb-5
       .tarjeta-titulo.tarjeta.color-primario--borde.p-5(style= 'height: 464px; width: 229px;').me-2(@mouseover="mostrarIndicador= false")
           .indicador--hover(v-if="mostrarIndicador")
@@ -296,13 +299,13 @@
                   .carousel-item.bg-1.p-5.tarjeta
                     .row.align-items-center
                       .col-lg-8
-                        p Reforzar el carácter democrático del proceso de aprendizaje poniendo toda la información al servicio de los Aprendices que intervienen directa o indirectamente en el mismo y este aspecto es muy importante en la comunicación de la evaluación porque encontramos que hay muchos Instructores que pareciera que se adueñan de este proceso, es decir, mantienen oculta las calificaciones mantienen, ocultos los resultados y esto es totalmente negativo por lo tanto es importante que la evaluación sea del Aprendiz y que él continuamente sepa cuáles son los resultados o cómo ha ido el proceso. 
+                        p Reforzar el <i>carácter democrático</i> del proceso de aprendizaje poniendo toda la información al servicio de los Aprendices que intervienen directa o indirectamente en el mismo y este aspecto es muy importante en la comunicación de la evaluación porque encontramos que hay muchos Instructores que pareciera que se adueñan de este proceso, es decir, mantienen oculta las calificaciones mantienen, ocultos los resultados y esto es totalmente negativo por lo tanto es importante que la evaluación sea del Aprendiz y que él continuamente sepa cuáles son los resultados o cómo ha ido el proceso. 
 
                       .col-lg-4: img(src='@/assets/curso/25.png', alt='Texto que describa la imagen')
                   .carousel-item.bg-1.p-5.tarjeta
                     .row.align-items-center
                       .col-lg-8
-                        p Diferenciar la calificación de sólo una evaluación sumativa donde se colocan notas o colocan letras, la evaluación es mucho más que la calificación y debe estar centrada en las dimensiones: describir, interpretar y valorar, el proceso de formación que ha realizado el Aprendiz, con la mirada puesta siempre en permitir sucesivas correcciones y mejoras.  Por ejemplo: muchas veces tenemos Aprendices que son muy participativos que conocemos que estudian que asisten puntualmente a clases y luego en el examen, ante cualquier situación nos logran aprobar, en estos casos es donde el Instructor debe colocar en juego los principios de evaluación que no es lo mismo que la calificación.
+                        p Diferenciar la calificación de sólo una <i>evaluación sumativa</i> donde se colocan notas o colocan letras, la evaluación es mucho más que la calificación y debe estar centrada en las dimensiones: describir, interpretar y valorar, el proceso de formación que ha realizado el Aprendiz, con la mirada puesta siempre en permitir sucesivas correcciones y mejoras.  Por ejemplo: muchas veces tenemos Aprendices que son muy participativos que conocemos que estudian que asisten puntualmente a clases y luego en el examen, ante cualquier situación nos logran aprobar, en estos casos es donde el Instructor debe colocar en juego los principios de evaluación que no es lo mismo que la calificación.
 
                       .col-lg-4: img(src='@/assets/curso/26.png', alt='Texto que describa la imagen')
               
@@ -443,7 +446,7 @@
     TabsA.color-primario.mb-5
       .tarjeta.bg--2-claro5.p-4(titulo="Observación")
         h4 Observación
-        p A través de la observación se puede obtener información sobre un hecho (producto) y sobre cómo se produce (proceso)
+        p A través de la observación se puede obtener información sobre un hecho (producto) y sobre cómo se produce (proceso).
         h4 Se debe contemplar:
         ol.lista-ol--cuadro
           li 
@@ -651,20 +654,20 @@
                                 br
                                 |Si se aumenta el número de dientes de la rueda conductora A, la velocidad del piñón B:
                                 br
-                                |a) disminuye
+                                |a) Disminuye
                                 br
-                                |b) permanece igual
+                                |b) Permanece igual
                                 br
-                                |c) aumenta
+                                |c) Aumenta
                                 br
                                 br
                                 |Si la rueda conductora A gira en el sentido indicado por la flecha, el piñón B gira en:
                                 br
-                                |a) el mismo sentido
+                                |a) El mismo sentido
                                 br
-                                |b) sentido diferente
+                                |b) Sentido diferente
                                 br
-                                |c) no gira
+                                |c) No gira
                       .col-lg-4: img(src='@/assets/curso/60.svg', alt='Texto que describa la imagen')
 
                 

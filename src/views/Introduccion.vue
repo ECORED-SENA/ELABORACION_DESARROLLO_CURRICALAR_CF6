@@ -18,7 +18,7 @@
             p.mb-0 Este componente formativo presenta los conceptos básicos de la evaluación del aprendizaje, la importancia de la evaluación en el proceso de enseñanza aprendizaje, la fase de comparación entre los conocimientos adquiridos y los objetivos educativos, así como la función, los métodos de evaluación, los tipos de evaluación y los principios que la fundamentan para que exista calidad educativa. Revise a continuación el material de introducción.
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ehpO4INKryU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>
