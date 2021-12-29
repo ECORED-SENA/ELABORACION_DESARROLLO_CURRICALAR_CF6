@@ -383,7 +383,7 @@
         .col-lg-4.imagen-ab
           img(src="@/assets/curso/35.svg" alt="Adornos flotantes" style="width: 100% ").mb-2
         .col-lg-7
-          p En la coevaluación hacemos un énfasis porque casi siempre se presenta un doble problema, el primero es que muchas veces el Instructor califica la estrategia de enseñanza o de aprendizaje que está usando y lo hace en nombre de la evaluación formativa decir, aquí hay una irregularidad si el Instructor diseña una estrategia de aprendizaje y es de aprendizaje no se debe calificar más.
+          p En la coevaluación hacemos un énfasis porque generalmente se presenta un  problema, muchas veces el Instructor califica la estrategia de enseñanza o de aprendizaje que está usando y lo hace en nombre de la evaluación formativa, es  decir, hay una irregularidad si el Instructor diseña una estrategia de aprendizaje y la toma como evaluación, esta no se debería calificar, sino que hace parte del proceso de aprendizaje.
             br
             br
             |Es muy común ver en nuestros espacios académicos que el Instructor propone la elaboración de un trabajo de investigación y esa es su estrategia de aprendizaje y la califica o plantea la elaboración de un mapa conceptual y lo califica, pero esa actividad de evaluación fue diseñada para que el Aprendiz aprenda el contenido.  Por lo tanto, no debe considerarse como evaluación sumativa.
