@@ -10,10 +10,10 @@
     .row.mb-5.justify-content-center
       .col-lg-10
         .bg--1-claro.p-4.position-relative.hover.hover-flip
-          p.mb-0.mt-4 Un <b>proceso integrado al de enseñanza-aprendizaje</b>, no es un concepto independiente, ni aislado del aprendizaje, es parte constitutiva de éste, en la medida que detecta sus fortalezas y sus debilidades, potencializa las oportunidades para retroalimentar permanentemente, desde el inicio hasta más allá de su finalización (etapa productiva), lo cual lo caracteriza como un proceso sistemático, intencional y riguroso, efecto natural de una cuidadosa planeación metodológica del proceso de enseñanza-aprendizaje-evaluación.
+          p.mb-0.mt-4 Un <b>proceso integrado al de enseñanza-aprendizaje</b>, no es un concepto independiente, ni aislado del aprendizaje, es parte constitutiva de este, en la medida que detecta sus fortalezas y sus debilidades, potencializa las oportunidades para retroalimentar permanentemente, desde el inicio hasta más allá de su finalización (etapa productiva), lo cual lo caracteriza como un proceso sistemático, intencional y riguroso, efecto natural de una cuidadosa planeación metodológica del proceso de enseñanza-aprendizaje-evaluación.
           .img(style=" position: absolute; top: -20%;  left: 0; width: 100%;  ")
             img(src="@/assets/curso/1.svg" alt="Adornos flotantes" style=" width: 70px").m-auto
-    p.mb-5 Para lograr la certificación, la evaluación, no se determina sólo por juicios cuantitativos, como se muestra a continuación.
+    p.mb-5 Para lograr la certificación, la evaluación, no se determina solo por juicios cuantitativos, como se muestra a continuación.
     .titulo-sexto.color-acento-botones
       h5 Figura 1
       span La evaluación
@@ -39,12 +39,11 @@
       .col-lg-12
         figure
           img(src='@/assets/curso/4.svg', alt='Texto que describa la imagen').mb-3
-          figcaption Nota. https://bit.ly/3GtktpK
     #t_1_1.titulo-segundo.color-primario(data-aos='fade-right')
       h2 1.1 Principios de la evaluación
     .row.mb-5
       .col-lg-7(data-aos='fade-right')
-        p De acuerdo con Lucio (1978) y la UNESCO (2016), hoy en día, los Instructores del siglo XXI, no deben mirar a los aprendices como una masa, sino que cada uno tiene sus necesidades particulares, aunque el Instructor los puede agrupar, siempre va a encontrar individualidades. Se debe recordar que el instructor actualmente asume el papel de mediador del conocimiento y que carece de técnicas y procedimientos infalibles, que en cualquier actividad de evaluación que se plantee, no necesariamente está es infalible; el hecho de que los aprendices no logren el porcentaje establecido adecuado, quiere decir que hay una falla en el diseño de la técnica o del procedimiento;  en algunos casos requiere de la participación de diferentes personas, así como de  una gran variedad de técnicas para recoger información, para lograr no la recompensa o el castigo sino  investigar cómo mejorar el producto y el proceso de aprendizaje. 
+        p De acuerdo con Lucio (1978) y la UNESCO (2016), hoy en día, los Instructores del siglo XXI, no deben mirar a los aprendices como una masa, sino que cada uno tiene sus necesidades particulares, aunque el Instructor los puede agrupar, siempre va a encontrar individualidades. Se debe recordar que el instructor actualmente asume el papel de mediador del conocimiento y que carece de técnicas y procedimientos infalibles, que en cualquier actividad de evaluación que se plantee, no necesariamente esta es infalible; el hecho de que los aprendices no logren el porcentaje establecido adecuado, quiere decir que hay una falla en el diseño de la técnica o del procedimiento;  en algunos casos requiere de la participación de diferentes personas, así como de  una gran variedad de técnicas para recoger información, para lograr no la recompensa o el castigo sino  investigar cómo mejorar el producto y el proceso de aprendizaje. 
       .col-lg-5(data-aos='fade-left'): img(src='@/assets/curso/5.svg', alt='Texto que describa la imagen').mb-3
     p.mb-5 En ese sentido, la evaluación debe contar con dos principios:
     .row.mb-5.justify-content-center
@@ -184,7 +183,7 @@
                   .row
                     .col-lg-4
                       .tarjeta.bg--2-claro.p-4.h-100
-                        p.mb-3 El instructor ajuste su acción y, en consecuencia, regule el proceso de enseñanza-aprendizaje a partir de la información obtenida en la evaluación, ésta le posibilita la toma acertada de decisiones:
+                        p.mb-3 El instructor ajuste su acción y, en consecuencia, regule el proceso de enseñanza-aprendizaje a partir de la información obtenida en la evaluación, esta le posibilita la toma acertada de decisiones:
                         ul.lista-ul.c--1
                           li 
                             i.fas.fa-check
@@ -305,7 +304,7 @@
                   .carousel-item.bg-1.p-5.tarjeta
                     .row.align-items-center
                       .col-lg-8
-                        p Diferenciar la calificación de sólo una <i>evaluación sumativa</i> donde se colocan notas o colocan letras, la evaluación es mucho más que la calificación y debe estar centrada en las dimensiones: describir, interpretar y valorar, el proceso de formación que ha realizado el Aprendiz, con la mirada puesta siempre en permitir sucesivas correcciones y mejoras.  Por ejemplo: muchas veces tenemos Aprendices que son muy participativos que conocemos que estudian que asisten puntualmente a clases y luego en el examen, ante cualquier situación nos logran aprobar, en estos casos es donde el Instructor debe colocar en juego los principios de evaluación que no es lo mismo que la calificación.
+                        p Diferenciar la calificación de solo una <i>evaluación sumativa</i> donde se colocan notas o colocan letras, la evaluación es mucho más que la calificación y debe estar centrada en las dimensiones: describir, interpretar y valorar, el proceso de formación que ha realizado el Aprendiz, con la mirada puesta siempre en permitir sucesivas correcciones y mejoras.  Por ejemplo: muchas veces tenemos Aprendices que son muy participativos que conocemos que estudian que asisten puntualmente a clases y luego en el examen, ante cualquier situación nos logran aprobar, en estos casos es donde el Instructor debe colocar en juego los principios de evaluación que no es lo mismo que la calificación.
 
                       .col-lg-4: img(src='@/assets/curso/26.png', alt='Texto que describa la imagen')
               
@@ -325,7 +324,7 @@
     p.mb-5 Tiene por finalidad identificar las aptitudes, conocimientos, habilidades, destrezas, los intereses y las motivaciones que tienen los aprendices para el logro de los objetivos del proceso formativo que están por iniciar.  
       br
       br
-      |Es importante aclarar que cuando se habla de evaluación diagnóstica no sólo se realiza al comienzo del curso, sino que es un proceso que se debe realizar antes de iniciar cada nuevo tema o contenido, es decir, es una evaluación continua, que permite conocer el grado de motivación o interés que tienen los aprendices hacia el tema propuesto; descubriendo respuestas como, por ejemplo: 
+      |Es importante aclarar que cuando se habla de evaluación diagnóstica no solo se realiza al comienzo del curso, sino que es un proceso que se debe realizar antes de iniciar cada nuevo tema o contenido, es decir, es una evaluación continua, que permite conocer el grado de motivación o interés que tienen los aprendices hacia el tema propuesto; descubriendo respuestas como, por ejemplo: 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-3
         .bloque-texto-b.color-acento-botones.p-4
@@ -350,14 +349,14 @@
           img(src="@/assets/curso/29.jpg" alt="Adornos flotantes" style="width: 100% ").mb-3
           .tarjetas-text__contenido.px-5.pb-5.pt-3
             h3 Autoevaluación
-            p Como su nombre lo indica es la evaluación que cada Aprendiz hace de su propio trabajo, es la evaluación de sí mismo, a través de ella el estudiante puede reconocer sus logros sus deficiencias, analizar y considerar su actuación individual y como se ha integrado al grupo y lo que promueve es el desarrollo de una actitud autocrítica.
+            p Como su nombre lo indica es la evaluación que cada Aprendiz hace de su propio trabajo, es la evaluación de sí mismo, a través de ella el estudiante puede reconocer sus logros sus deficiencias, analizar y considerar su actuación individual y cómo se ha integrado al grupo y lo que promueve es el desarrollo de una actitud autocrítica.
       .col-lg-6
         .tarjeta.tarjetas-text.rounded-0(@mouseover="mostrarIndicador= false")
           img(src="@/assets/curso/30.jpg" alt="Adornos flotantes" style="width: 100% ").mb-3
           .tarjetas-text__contenido.px-5.pb-5.pt-3
             h3 Coevaluación
             p Esta evaluación es la que tiene que ver con el otro, es decir la evaluación entre pares o en grupo que es lo que conocemos como evaluación recíproca que realizan los Aprendices que están siendo evaluados.  El Instructor tradicionalmente no participa del proceso de coevaluación porque él no está siendo evaluado en ese momento; este proceso se hace sobre la actuación de cada uno y del grupo como un todo. Puede incluir al Instructor siempre y cuando el Instructor no esté calificando.
-      p.mb-5 Este tipo de evaluación permite:
+      p.mb-5.mt-5 Este tipo de evaluación permite:
       .row.mb-5
         .col-lg-6.mb-2.mb-lg-0
           .d-flex.justify-content-center.align-items-center.h-100.hover
@@ -395,7 +394,7 @@
     h3(data-aos='fade-right') Evaluación sumativa
     .row.mb-5
       .col-lg-7(data-aos='fade-right')
-        p Tiene por finalidad determinar ahora si el logro de los resultados de aprendizaje, con el fin de calificar al Aprendiz y orientar las decisiones procedentes por parte del Instructor, cuando hablamos de evaluación sumativa es una actividad específica para calificar y se cumple través de las siguientes formas: parciales, finales, extraordinarias; revisiones, equivalencias o revalidación es decir es un instrumento específico que determina una nota el resultado del proceso de enseñanza-aprendizaje.
+        p Tiene por finalidad determinar ahora si el logro de los resultados de aprendizaje, con el fin de calificar al Aprendiz y orientar las decisiones procedentes por parte del Instructor, cuando hablamos de evaluación sumativa es una actividad específica para calificar y se cumple a través de las siguientes formas: parciales, finales, extraordinarias; revisiones, equivalencias o revalidación es decir es un instrumento específico que determina una nota, el resultado del proceso de enseñanza-aprendizaje.
       .col-lg-5(data-aos='fade-left'): img(src='@/assets/curso/36.jpg')
     #t_1_4.titulo-segundo.color-primario(data-aos='fade-right')
       h2 1.4. Dimensiones de la evaluación
@@ -422,7 +421,7 @@
             img(src='@/assets/curso/40.svg', alt='Texto que describa la imagen')
         .col-md-9.mb-4.mb-md-0
           p.mb-0 <b>“En esta área converge la aplicación de los principios científicos y el uso de tecnologías y técnicas a la producción y distribución de bienes y servicios, es decir, para el contexto productivo; igualmente para el contexto social”</b> (2013:30). Responde a la pregunta ¿qué debe saber hacer el aprendiz para lograr determinado resultado de aprendizaje?
-      .row(titulo="Aprender a hacer (área psicomotriz, procedimental o biofísica)").align-items-center.justify-content-center
+      .row(titulo="Aprender a ser (afectiva o valorativa-actitudinal)").align-items-center.justify-content-center
         .col-md-2
           figure
             img(src='@/assets/curso/41.svg', alt='Texto que describa la imagen')
@@ -482,10 +481,10 @@
         p La entrevista es una técnica de recogida de información mediante la cual la persona que entrevista solicita y obtiene información de otra persona o grupo de personas. Se basa en una relación personal y una interacción verbal.
           br
           br
-          |En evaluación, la entrevista en profundidad ofrece amplias posibilidades, ya que nos permite conocer aspectos sobre el proceso de aprendizaje (estrategias desarrolladas, planificación de tareas, dificultades, medios utilizados…), y no sólo sobre el producto.
+          |En evaluación, la entrevista en profundidad ofrece amplias posibilidades, ya que nos permite conocer aspectos sobre el proceso de aprendizaje (estrategias desarrolladas, planificación de tareas, dificultades, medios utilizados…), y no solo sobre el producto.
       .tarjeta.bg--2-claro5.p-4(titulo="Análisis de producción o documentos")
         h4 Análisis de producción o documentos
-        p Los documentos de aprendizaje hacen referencia a todo tipo de material escrito producido por los estudiantes (portafolios, ensayos, recensiones, proyectos de investigación, memorias, exámenes, etc.), cuyo análisis nos puede proporcionar información sobre éstos, sobre el proceso de enseñanza-aprendizaje y/o sobre su resultado. 
+        p Los documentos de aprendizaje hacen referencia a todo tipo de material escrito producido por los estudiantes (portafolios, ensayos, recensiones, proyectos de investigación, memorias, exámenes, etc.), cuyo análisis nos puede proporcionar información sobre estos, sobre el proceso de enseñanza-aprendizaje y/o sobre su resultado. 
     #t_1_6.titulo-segundo.color-primario(data-aos='fade-right')
       h2 1.6 Estrategias de evaluación
     p.mb-5 Es un plan de acción para valorar el aprendizaje de los aprendices, reconocer sus avances e identificar las interferencias, a fin de realizar una intervención efectiva en los procesos de enseñanza-aprendizaje.  Entonces las técnicas de evaluación son procedimientos utilizados por el Instructor para obtener información relacionada a los procesos de enseñanza-aprendizaje y los instrumentos de evaluación son recursos que se utilizan para recolectar y registrar información de los aprendices y su práctica docente.
